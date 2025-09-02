@@ -16,4 +16,4 @@ This repository collects my projects in artificial intelligence, with applicatio
 ## How to Run
 ```bash
 cd pinns
-python heat_equation_pinn.py
+python ***.py
