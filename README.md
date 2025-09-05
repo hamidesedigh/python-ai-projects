@@ -1,6 +1,6 @@
 # Python AI Projects 🤖
 
-This repository collects my projects in artificial intelligence, with applications in control systems, fault detection, and physics-informed machine learning.
+This repository collects my projects in artificial intelligence, with applications in control systems, fault detection, and machine learning.
 
 ## Contents
 - Physics-Informed Neural Networks (PINNs)
